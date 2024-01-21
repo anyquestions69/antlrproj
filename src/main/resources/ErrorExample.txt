@@ -1,0 +1,25 @@
+<?php
+        bool = true;
+        $integer = 4515
+        $real = 3567,5;
+        $mass = {344, 78.43, 100, 54, 655.2, 'Retro', true};
+        $string = (HelloWorld);
+        $b = Input();
+        $s = input(1);
+        $d = 34  %% 2;
+        q = 2 ** 34;
+        $g+-;
+        while ( $t = 34  55 ) {
+            $g = 335  47.2;
+            i = $i + 1;
+        }
+        if ( $t = 34 >= 55 ) {
+            $w = 335 * 47.2;
+            $n = $n - 4;
+        }else if ( $t = 34 < 23 ) {
+            $w = 335 / 47.2;
+            $n = $n + 4;
+        }else {
+            print( "Error" );
+        }
+?>
