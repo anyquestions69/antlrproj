@@ -2,8 +2,8 @@
         $bool = true;
         $integer = 4515;
         $real = 3567.5;
-        $mass = [344, 78.43, 100, 54, 655.2, "Retro", true];
-        $string = `HelloWorld`;
+        $mass = [344, 78.43, 100, 54, 655.2, "Str", true];
+        $string = `AAA`;
         $b = input();
         $s = input();
         $d = 34  % 2;
